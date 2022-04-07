@@ -1,0 +1,32 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename></filename>
+  <source>
+    <database>Unknown</database>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width></width>
+    <height></height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name></name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin></xmin>
+      <ymin></ymin>
+      <xmax></xmax>
+      <ymax></ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
