@@ -16,7 +16,8 @@ class AnnotationTool:
         
         for c in myroot.findall(".//object"):
             dupe = copy.deepcopy(c) 
-            myroot.append(dupe) 
+            myroot.append(dupe)
+            break;
         for lbl in myroot.iter('name'):
             lbl.text=label
             break;#multiple name space
